@@ -9,7 +9,7 @@ The target ontology, BMO in this repo, would contain:
 2. Data and Object properties 
 3. Vocab reusability via `SKOS:exactMatch` and `SKOS:closeMatch` currently we support reusability from [Dublin Core](https://www.dublincore.org/), [schema.org](https://schema.org/), and [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 
-## Generated Ontology (BMO)
+## Generated Ontology (BMO) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6948519.svg)](https://doi.org/10.5281/zenodo.6948519)
 The generated ontology given the current definitions is as follows. 
 The visualization is created by the public service of [webvowl](http://vowl.visualdataweb.org/webvowl.html)
 ![BMO!](images/bmo.png)
@@ -31,6 +31,7 @@ Besides the 'Basic Changes' above, if you need to support more to generate of yo
 
 ### Citation
 
+Please use the following citation if you like to use the code
 ```
 @software{nora_abdelmageed_2022_6948513,
   author       = {Nora Abdelmageed},
