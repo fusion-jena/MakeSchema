@@ -1,4 +1,5 @@
-# Make Schema
+# Make Schema [![DOI](https://zenodo.org/badge/520071334.svg)](https://zenodo.org/badge/latestdoi/520071334)
+
 
 Make Schema is a python tool that is based on [rdflib](https://github.com/RDFLib/rdflib) to create an RDF schema aka ontology.
 This tool is developed and tested in the scope of [Meta2KG](https://github.com/fusion-jena/Meta2KG) project to create the BMO ontology. 
@@ -29,3 +30,16 @@ Besides the 'Basic Changes' above, if you need to support more to generate of yo
 - The second one would be the place where you fetch the new attribute and transform it into an knowledge graph triple. 
 
 ### Citation
+
+```
+@software{nora_abdelmageed_2022_6948513,
+  author       = {Nora Abdelmageed},
+  title        = {fusion-jena/MakeSchema: BMO\_code},
+  month        = aug,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.6948513},
+  url          = {https://doi.org/10.5281/zenodo.6948513}
+}
+```
